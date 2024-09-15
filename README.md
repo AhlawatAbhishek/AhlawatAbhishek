@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahlawatabhishek&label=Profile%20views&color=0e75b6&style=flat" alt="ahlawatabhishek" /> </p>
 
-- 🌱 I’m currently learning **Web Development Frameworks, Data Science and Machine Learning**
+- 🌱 I’m currently learning **Web Development Frameworks, Android Development**
 
 - 📫 How to reach me **Ping me on LinkedIn**
 
