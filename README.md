@@ -1,7 +1,7 @@
 ![logo](https://github.com/AhlawatAbhishek/AhlawatAbhishek/blob/main/Banner_GitHub.png)
 <h1 align="center">Hi 👋, I'm Abhishek Ahlawat</h1>
 <h3 align="center">
-  A passionate full stack android and web developer from India
+  A passionate Android and web developer from India, currently focused on building expertise in the MERN stack. Eager to deepen my skills in full-stack development with MongoDB, Express, React, and Node.js
 </h3>
 
 <img
@@ -18,8 +18,7 @@
   />
 </p>
 
-- 🌱 I’m currently learning **Web Development Frameworks and Android
-Development** - 📫 How to reach me **Ping me on LinkedIn** - 📄 Know about my
+- 🌱 I’m currently learning **MERN Stack** - 📫 How to reach me **Ping me on LinkedIn** - 📄 Know about my
 experiences
 [https://in.linkedin.com/in/abhishek-ahlawat-667aa1178](https://in.linkedin.com/in/abhishek-ahlawat-667aa1178)
 - ⚡ Fun fact **Did you know the first computer💻 bug was an actual bug🐛? In
