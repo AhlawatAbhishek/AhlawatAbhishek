@@ -18,9 +18,10 @@
   />
 </p>
 
-- 🌱 I’m currently learning **MERN Stack** - 📫 How to reach me **Ping me on LinkedIn** - 📄 Know about my
-experiences
-[https://in.linkedin.com/in/abhishek-ahlawat-667aa1178](https://in.linkedin.com/in/abhishek-ahlawat-667aa1178)
+- 🌱 I’m currently learning **MERN Stack** - 📫 How to reach me **Ping me on LinkedIn or X** - 📄 Know about my
+experiences:<br>
+[LinkedIn Handle](https://in.linkedin.com/in/abhishek-ahlawat-667aa1178) <br>
+[X (Formerly knows as Twitter) Handle](https://x.com/AbhishekAh89825)
 - ⚡ Fun fact **Did you know the first computer💻 bug was an actual bug🐛? In
 1947, Grace Hopper and her team discovered a moth stuck in a relay of their
 Harvard Mark II computer, leading them to coin the term 'debugging' for fixing
